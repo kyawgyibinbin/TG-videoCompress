@@ -3,17 +3,17 @@
     "description": "A telegram video encoder.",
     "logo": "https://telegra.ph/file/c1cb2ae0417b5492f8785.jpg",
     "keywords": ["Telegram","python", "Video","Compressor","Encoder"],
-    "repository": "https://github.com/Anshusharma75/TG-videoCompress",
+    "repository": "https://github.com/kyawgyibinbin/TG-videoCompress",
     "success_url": "",
     "stack": "container",
     "env": {
         "APP_ID": {
             "description": "You api id get it from my.telegram.org or @apiScrapperRoBot",
-            "value": ""
+            "value": "6"
         },
         "API_HASH": {
             "description": "You api hash get it from my.telegram.org or @apiScrapperRoBot.",
-            "value": ""
+            "value": "eb06d4abfb49dc3eeb1aeb98ae0f581e"
         },
         "BOT_TOKEN": {
             "description": "Make a bot from @BotFather and enter it's api token",
@@ -21,7 +21,7 @@
         },
         "OWNER": {
             "description": "Put ids of user which can access the bot e.g 123456789",
-            "value": ""
+            "value": "1116893989"
         },
         "THUMBNAIL": {
             "description": "Put Link of any picture.",
